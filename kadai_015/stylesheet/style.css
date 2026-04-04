@@ -219,7 +219,7 @@ font-size: 52px;
   bottom: 24px;
 }
 /*----------シェフ*/
-.chef_bg {
+#chef_bg {
   background-color: #fdf5e6;
 }
 .chef::after {
@@ -230,7 +230,7 @@ font-size: 52px;
   color: #333;       /* 必要なら調整 */
   font-weight: normal; /* 必要なら調整 */
 }
-.section_title {
+.section_title.chef {
    /* フォントサイズ36px */
    font-size: 36px;
  
