@@ -219,10 +219,10 @@ font-size: 52px;
   bottom: 24px;
 }
 /*----------シェフ*/
-#chef_bg {
+.chef_bg {
   background-color: #fdf5e6;
 }
-.chef::after {
+.section_title.chef::after {
   content: "シェフ";
   display: block;    /* ブロック要素で下に表示 */
   margin: 0;         /* 左寄せに変更。中央寄せしない */
