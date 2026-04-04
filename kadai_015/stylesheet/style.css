@@ -219,7 +219,7 @@ font-size: 52px;
   bottom: 24px;
 }
 /*----------シェフ*/
-.chef_wrapper {
+.chef_bg {
   background-color: #fdf5e6;
 }
 .chef::after {
